@@ -1,0 +1,28 @@
+C:\Users\Home\Desktop\nd2\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe.config
+C:\Users\Home\Desktop\nd2\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe
+C:\Users\Home\Desktop\nd2\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.pdb
+C:\Users\Home\Desktop\nd2\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\nd2\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.exe
+C:\Users\Home\Desktop\nd2\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.pdb
+C:\Users\Home\Desktop\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe.config
+C:\Users\Home\Desktop\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.exe
+C:\Users\Home\Desktop\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.pdb
+C:\Users\Home\Desktop\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe
+C:\Users\Home\Desktop\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.pdb
+C:\Users\Home\Desktop\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.csprojResolveAssemblyReference.cache
+G:\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe.config
+G:\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.exe
+G:\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.pdb
+G:\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe
+G:\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.pdb
+G:\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.csprojResolveAssemblyReference.cache
+D:\Objektinis programavimas 1\6 laboras, matricos\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe.config
+D:\Objektinis programavimas 1\6 laboras, matricos\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.exe
+D:\Objektinis programavimas 1\6 laboras, matricos\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.pdb
+C:\Users\Aiste\Desktop\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe.config
+C:\Users\Aiste\Desktop\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.exe
+C:\Users\Aiste\Desktop\L6_DarboBirža\L6_DarboBirža\bin\Debug\L6_DarboBirža.pdb
+C:\Users\Aiste\Desktop\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.csprojResolveAssemblyReference.cache
+C:\Users\Aiste\Desktop\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.csproj.CoreCompileInputs.cache
+C:\Users\Aiste\Desktop\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.exe
+C:\Users\Aiste\Desktop\L6_DarboBirža\L6_DarboBirža\obj\Debug\L6_DarboBirža.pdb

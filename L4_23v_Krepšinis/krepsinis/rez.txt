@@ -1,0 +1,40 @@
+Krepðinio komandø þaidëjai
+-------------------------------------------------------------------------------
+|    Vardas      |   Pavarde    |   Ugis   |   Komanda    |  Vid.Pelnyti taskai|
+-------------------------------------------------------------------------------
+|Renaldas        |Seibutis      |198       | Zalgiris       |20.0                |
+|Ksystof         |Lavirnovic    |209       | Lietuvos rytas  |16.0                |
+|Robertas        |Javtokas      |211       | Zalgiris       |60.0                |
+|Marius          |Runkauskas    |188       | Lietuvos rytas  |32.0                |
+|Antanas         |Kavaliauskas  |208       | Lietuvos rytas  |60.0                |
+|Mindaugas       |Kacinas       |201       | Neptunas       |16.0                |
+|Tadas           |Jucikas       |205       | Neptunas       |60.0                |
+-------------------------------------------------------------------------------
+
+GERIAUSIUJU PUOLEJU SARASAS
+-------------------------------------------------------------------------------
+|    Vardas      |   Pavarde    |   Ugis   |   Komanda    |  Vid.Pelnyti taskai|
+-------------------------------------------------------------------------------
+|Mindaugas       |Kacinas       |201       | Neptunas       |16.0                |
+-------------------------------------------------------------------------------
+
+GERIAUSIUJU GYNEJU SARASAS
+-------------------------------------------------------------------------------
+|    Vardas      |   Pavarde    |   Ugis   |   Komanda    |  Vid.Pelnyti taskai|
+-------------------------------------------------------------------------------
+|Marius          |Runkauskas    |188       | Lietuvos rytas  |32.0                |
+-------------------------------------------------------------------------------
+
+GERIAUSIUJU CENTRU SARASAS
+-------------------------------------------------------------------------------
+|    Vardas      |   Pavarde    |   Ugis   |   Komanda    |  Vid.Pelnyti taskai|
+-------------------------------------------------------------------------------
+|Robertas        |Javtokas      |211       | Zalgiris       |60.0                |
+|Antanas         |Kavaliauskas  |208       | Lietuvos rytas  |60.0                |
+-------------------------------------------------------------------------------
+
+Pirmàsias tris vietas sarasuose uzima 3 skirtingos komandos:
+
+Neptunas
+Lietuvos rytas
+Zalgiris

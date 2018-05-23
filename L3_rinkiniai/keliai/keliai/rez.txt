@@ -1,0 +1,12 @@
+LIETUVOS KELIAI
+|----------------------------|------------------|-----------|
+|          Kelio             |      Ilgis       |  Greicio  | 
+|       pavadinimas          |                  |   riba    |  
+|----------------------------|------------------|-----------|
+| Panevezys-Siauliai   	     |    78.94 	|   110	    |
+| Vilnius-Utena     	     |    95.60 	|    70	    |
+| Siauliai-Palanga   	     |   146.85 	|    90	    |
+| Vilnius-Klaipeda   	     |   311.40 	|   100	    |
+| Vilnius-Minskas   	     |    33.99 	|    90	    |
+| Kaunas-Daugpilis   	     |   185.40 	|    90	    |
+|----------------------------|------------------|-----------|

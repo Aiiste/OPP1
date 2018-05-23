@@ -1,0 +1,7 @@
+Zalgiris;Seibutis;Renaldas;198;1985;Gynejas;3;60;
+Lietuvos rytas;Lavirnovic;Ksystof;209;1979;Puolejas;1;16;
+Zalgiris;Javtokas;Robertas;211;1980;Centras;2;120;
+Lietuvos rytas;Runkauskas;Marius;188;1986;Gynejas;2;65;
+Lietuvos rytas;Kavaliauskas;Antanas;208;1984;Centras;2;120;
+Neptunas;Kacinas;Mindaugas;201;1993;Puolejas;3;48;
+Neptunas;Jucikas;Tadas;205;1994;Centras;1;60;

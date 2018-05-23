@@ -1,0 +1,19 @@
+C:\Users\Home\Desktop\nd2\raides\raides\bin\Debug\raides.exe.config
+C:\Users\Home\Desktop\nd2\raides\raides\bin\Debug\raides.exe
+C:\Users\Home\Desktop\nd2\raides\raides\bin\Debug\raides.pdb
+C:\Users\Home\Desktop\nd2\raides\raides\obj\Debug\raides.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\nd2\raides\raides\obj\Debug\raides.exe
+C:\Users\Home\Desktop\nd2\raides\raides\obj\Debug\raides.pdb
+G:\raides\raides\bin\Debug\raides.exe.config
+G:\raides\raides\obj\Debug\raides.exe
+G:\raides\raides\obj\Debug\raides.pdb
+D:\Objektinis programavimas\raides\raides\bin\Debug\raides.exe.config
+D:\Objektinis programavimas\raides\raides\obj\Debug\raides.exe
+D:\Objektinis programavimas\raides\raides\obj\Debug\raides.pdb
+C:\Users\Aiste\Desktop\Krepsininkai- konteineris\raides\bin\Debug\raides.exe.config
+C:\Users\Aiste\Desktop\Krepsininkai- konteineris\raides\bin\Debug\raides.exe
+C:\Users\Aiste\Desktop\Krepsininkai- konteineris\raides\bin\Debug\raides.pdb
+C:\Users\Aiste\Desktop\Krepsininkai- konteineris\raides\obj\Debug\raides.csprojResolveAssemblyReference.cache
+C:\Users\Aiste\Desktop\Krepsininkai- konteineris\raides\obj\Debug\raides.csproj.CoreCompileInputs.cache
+C:\Users\Aiste\Desktop\Krepsininkai- konteineris\raides\obj\Debug\raides.exe
+C:\Users\Aiste\Desktop\Krepsininkai- konteineris\raides\obj\Debug\raides.pdb

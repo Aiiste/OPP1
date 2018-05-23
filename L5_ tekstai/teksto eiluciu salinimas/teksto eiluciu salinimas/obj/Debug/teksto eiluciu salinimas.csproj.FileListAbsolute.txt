@@ -1,0 +1,13 @@
+D:\Aiste Sudintaite\teksto eiluciu salinimas\teksto eiluciu salinimas\bin\Debug\teksto eiluciu salinimas.exe.config
+D:\Aiste Sudintaite\teksto eiluciu salinimas\teksto eiluciu salinimas\bin\Debug\teksto eiluciu salinimas.exe
+D:\Aiste Sudintaite\teksto eiluciu salinimas\teksto eiluciu salinimas\bin\Debug\teksto eiluciu salinimas.pdb
+D:\Aiste Sudintaite\teksto eiluciu salinimas\teksto eiluciu salinimas\obj\Debug\teksto eiluciu salinimas.csprojResolveAssemblyReference.cache
+D:\Aiste Sudintaite\teksto eiluciu salinimas\teksto eiluciu salinimas\obj\Debug\teksto eiluciu salinimas.exe
+D:\Aiste Sudintaite\teksto eiluciu salinimas\teksto eiluciu salinimas\obj\Debug\teksto eiluciu salinimas.pdb
+C:\Users\Aiste\Desktop\teksto eiluciu salinimas\teksto eiluciu salinimas\bin\Debug\teksto eiluciu salinimas.exe.config
+C:\Users\Aiste\Desktop\teksto eiluciu salinimas\teksto eiluciu salinimas\bin\Debug\teksto eiluciu salinimas.exe
+C:\Users\Aiste\Desktop\teksto eiluciu salinimas\teksto eiluciu salinimas\bin\Debug\teksto eiluciu salinimas.pdb
+C:\Users\Aiste\Desktop\teksto eiluciu salinimas\teksto eiluciu salinimas\obj\Debug\teksto eiluciu salinimas.csprojResolveAssemblyReference.cache
+C:\Users\Aiste\Desktop\teksto eiluciu salinimas\teksto eiluciu salinimas\obj\Debug\teksto eiluciu salinimas.csproj.CoreCompileInputs.cache
+C:\Users\Aiste\Desktop\teksto eiluciu salinimas\teksto eiluciu salinimas\obj\Debug\teksto eiluciu salinimas.exe
+C:\Users\Aiste\Desktop\teksto eiluciu salinimas\teksto eiluciu salinimas\obj\Debug\teksto eiluciu salinimas.pdb

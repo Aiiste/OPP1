@@ -1,0 +1,25 @@
+C:\Users\Home\Desktop\nd2\krepsinis\krepsinis\bin\Debug\krepsinis.exe.config
+C:\Users\Home\Desktop\nd2\krepsinis\krepsinis\bin\Debug\krepsinis.exe
+C:\Users\Home\Desktop\nd2\krepsinis\krepsinis\bin\Debug\krepsinis.pdb
+C:\Users\Home\Desktop\nd2\krepsinis\krepsinis\obj\Debug\krepsinis.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\nd2\krepsinis\krepsinis\obj\Debug\krepsinis.exe
+C:\Users\Home\Desktop\nd2\krepsinis\krepsinis\obj\Debug\krepsinis.pdb
+F:\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.exe.config
+F:\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.exe
+F:\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.pdb
+F:\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.exe
+F:\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.pdb
+F:\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.csprojResolveAssemblyReference.cache
+D:\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.exe.config
+D:\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.exe
+D:\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.pdb
+D:\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.exe
+D:\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.pdb
+D:\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.csprojResolveAssemblyReference.cache
+C:\Users\Aiste\Desktop\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.exe.config
+C:\Users\Aiste\Desktop\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.exe
+C:\Users\Aiste\Desktop\OP KONTEINERIAI\krepsinis\krepsinis\bin\Debug\krepsinis.pdb
+C:\Users\Aiste\Desktop\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.csprojResolveAssemblyReference.cache
+C:\Users\Aiste\Desktop\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.csproj.CoreCompileInputs.cache
+C:\Users\Aiste\Desktop\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.exe
+C:\Users\Aiste\Desktop\OP KONTEINERIAI\krepsinis\krepsinis\obj\Debug\krepsinis.pdb

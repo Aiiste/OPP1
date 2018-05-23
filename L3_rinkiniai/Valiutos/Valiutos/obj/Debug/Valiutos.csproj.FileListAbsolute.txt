@@ -1,0 +1,24 @@
+D:\Aiste Sudintaite\Valiutos\Valiutos\bin\Debug\Valiutos.exe.config
+D:\Aiste Sudintaite\Valiutos\Valiutos\bin\Debug\Valiutos.exe
+D:\Aiste Sudintaite\Valiutos\Valiutos\bin\Debug\Valiutos.pdb
+D:\Aiste Sudintaite\Valiutos\Valiutos\obj\Debug\Valiutos.exe
+D:\Aiste Sudintaite\Valiutos\Valiutos\obj\Debug\Valiutos.pdb
+D:\Valiutos\Valiutos\bin\Debug\Valiutos.exe.config
+D:\Valiutos\Valiutos\obj\Debug\Valiutos.exe
+D:\Valiutos\Valiutos\obj\Debug\Valiutos.pdb
+D:\Valiutos\Valiutos\bin\Debug\Valiutos.exe
+D:\Valiutos\Valiutos\bin\Debug\Valiutos.pdb
+D:\Valiutos\Valiutos\obj\Debug\Valiutos.csprojResolveAssemblyReference.cache
+F:\P3\Valiutos\Valiutos\bin\Debug\Valiutos.exe.config
+F:\P3\Valiutos\Valiutos\obj\Debug\Valiutos.exe
+F:\P3\Valiutos\Valiutos\obj\Debug\Valiutos.pdb
+D:\P3\Valiutos\Valiutos\bin\Debug\Valiutos.exe.config
+D:\P3\Valiutos\Valiutos\obj\Debug\Valiutos.exe
+D:\P3\Valiutos\Valiutos\obj\Debug\Valiutos.pdb
+C:\Users\Aiste\Desktop\Valiutos\Valiutos\bin\Debug\Valiutos.exe.config
+C:\Users\Aiste\Desktop\Valiutos\Valiutos\bin\Debug\Valiutos.exe
+C:\Users\Aiste\Desktop\Valiutos\Valiutos\bin\Debug\Valiutos.pdb
+C:\Users\Aiste\Desktop\Valiutos\Valiutos\obj\Debug\Valiutos.csprojResolveAssemblyReference.cache
+C:\Users\Aiste\Desktop\Valiutos\Valiutos\obj\Debug\Valiutos.csproj.CoreCompileInputs.cache
+C:\Users\Aiste\Desktop\Valiutos\Valiutos\obj\Debug\Valiutos.exe
+C:\Users\Aiste\Desktop\Valiutos\Valiutos\obj\Debug\Valiutos.pdb

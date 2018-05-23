@@ -1,0 +1,9 @@
+C:\Users\Home\Desktop\nd2\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\bin\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.exe.config
+C:\Users\Home\Desktop\nd2\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\bin\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.exe
+C:\Users\Home\Desktop\nd2\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\bin\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.pdb
+C:\Users\Home\Desktop\nd2\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\obj\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\nd2\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\obj\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.exe
+C:\Users\Home\Desktop\nd2\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\obj\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.pdb
+D:\Objektinis programavimas 1\Teksto kontrui\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\bin\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.exe.config
+D:\Objektinis programavimas 1\Teksto kontrui\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\obj\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.exe
+D:\Objektinis programavimas 1\Teksto kontrui\bandymas2_ zodzio_ arba_ eilutes salinimas\bandymas2_ zodzio_ arba_ eilutes salinimas\obj\Debug\bandymas2_ zodzio_ arba_ eilutes salinimas.pdb

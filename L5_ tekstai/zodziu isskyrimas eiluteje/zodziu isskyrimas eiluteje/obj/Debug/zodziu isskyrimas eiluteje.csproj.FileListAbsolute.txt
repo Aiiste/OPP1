@@ -1,0 +1,13 @@
+D:\Aiste Sudintaite\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\bin\Debug\zodziu isskyrimas eiluteje.exe.config
+D:\Aiste Sudintaite\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\bin\Debug\zodziu isskyrimas eiluteje.exe
+D:\Aiste Sudintaite\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\bin\Debug\zodziu isskyrimas eiluteje.pdb
+D:\Aiste Sudintaite\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\obj\Debug\zodziu isskyrimas eiluteje.csprojResolveAssemblyReference.cache
+D:\Aiste Sudintaite\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\obj\Debug\zodziu isskyrimas eiluteje.exe
+D:\Aiste Sudintaite\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\obj\Debug\zodziu isskyrimas eiluteje.pdb
+C:\Users\Aiste\Desktop\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\bin\Debug\zodziu isskyrimas eiluteje.exe.config
+C:\Users\Aiste\Desktop\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\bin\Debug\zodziu isskyrimas eiluteje.exe
+C:\Users\Aiste\Desktop\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\bin\Debug\zodziu isskyrimas eiluteje.pdb
+C:\Users\Aiste\Desktop\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\obj\Debug\zodziu isskyrimas eiluteje.csprojResolveAssemblyReference.cache
+C:\Users\Aiste\Desktop\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\obj\Debug\zodziu isskyrimas eiluteje.csproj.CoreCompileInputs.cache
+C:\Users\Aiste\Desktop\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\obj\Debug\zodziu isskyrimas eiluteje.exe
+C:\Users\Aiste\Desktop\zodziu isskyrimas eiluteje\zodziu isskyrimas eiluteje\obj\Debug\zodziu isskyrimas eiluteje.pdb

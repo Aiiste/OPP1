@@ -1,0 +1,27 @@
+------------------------------------------------------------
+Pradiniai duomenys
+------------------------------------------------------------
+Miestų sąrašas:
+
+Kaunas       145    45
+Klaipeda     123    23
+Vilnius       85    54
+
+Jaunimo nuo 19 iki 25 metų nedarbas miestuose:
+
+ 5 9 7 9
+ 5 3 2 6
+ 2 4 6 8
+------------------------------------------------------------
+Rezultatai
+------------------------------------------------------------
+Didžiausias nedarbas jaunimo tarpe buvo 1 mėnesį.
+
+Santykinis nedarbo lygis mažiausias: miestas Klaipeda, mėnuo 3
+------------------------------------------------------------
+Rikiuotas miestų sąrašas pagal gyventojų skaičių (mažėjimo tvarka)
+------------------------------------------------------------
+Kaunas       145    45
+Klaipeda     123    23
+Vilnius       85    54
+------------------------------------------------------------

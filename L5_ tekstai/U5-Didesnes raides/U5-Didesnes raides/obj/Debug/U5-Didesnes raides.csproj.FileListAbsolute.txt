@@ -1,0 +1,30 @@
+D:\Aiste Sudintaite\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe.config
+D:\Aiste Sudintaite\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe
+D:\Aiste Sudintaite\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.pdb
+D:\Aiste Sudintaite\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.csprojResolveAssemblyReference.cache
+D:\Aiste Sudintaite\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.exe
+D:\Aiste Sudintaite\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.pdb
+D:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe.config
+D:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.exe
+D:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.pdb
+D:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe
+D:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.pdb
+D:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.csprojResolveAssemblyReference.cache
+F:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe.config
+F:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.exe
+F:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.pdb
+F:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe
+F:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.pdb
+F:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.csprojResolveAssemblyReference.cache
+G:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe.config
+G:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.exe
+G:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.pdb
+G:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe
+G:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.pdb
+G:\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.csprojResolveAssemblyReference.cache
+D:\Objektinis programavimas\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe.config
+D:\Objektinis programavimas\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.exe
+D:\Objektinis programavimas\TEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.pdb
+D:\Objektinis programavimas\5 laborasTEKSTAS\U5-Didesnes raides\U5-Didesnes raides\bin\Debug\U5-Didesnes raides.exe.config
+D:\Objektinis programavimas\5 laborasTEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.exe
+D:\Objektinis programavimas\5 laborasTEKSTAS\U5-Didesnes raides\U5-Didesnes raides\obj\Debug\U5-Didesnes raides.pdb
